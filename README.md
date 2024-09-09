@@ -1,4 +1,4 @@
-# EEG Signal Processing CHW4
+# EEG Signal Processing Fourth Project
 
 ## Overview
 
